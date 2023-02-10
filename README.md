@@ -8,8 +8,7 @@ Aplicação para encrontrar perfeis no github.
 - Typescript
 - Jest
 - Testing Library
-- StitchesJS
-- Radix
+- SASS
 
 # Command lines 
 
